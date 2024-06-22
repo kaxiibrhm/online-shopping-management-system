@@ -1,0 +1,22 @@
+Order Details:
+Watch - $15.75
+Delivery Address: asdss
+Total Price: $41.18
+-------------------------------------
+Order Details:
+Headphone - $8.50
+Delivery Address: dfdd
+Total Price: $38.50
+-------------------------------------
+Order Details:
+Watch - $15.75
+Iphone - $10.99
+Delivery Address: house 58
+Total Price: $51.07
+-------------------------------------
+Order Details:
+Iphone - $10.99
+Headphone - $8.50
+Delivery Address: asjnd
+Total Price: $44.54
+-------------------------------------
